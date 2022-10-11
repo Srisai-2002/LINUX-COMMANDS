@@ -1,0 +1,5 @@
+command : mkdir
+use : create a new directory
+example: mkdir 1255
+output : [20k61a1255@online ~]$ cd 1255
+         [20k61a1255@online 1255]
