@@ -1,2 +1,0 @@
-command : cat
-use : concatenation view
